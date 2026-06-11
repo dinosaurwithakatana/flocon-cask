@@ -1,4 +1,4 @@
-# Dinosaurwithakatana Flocon-cask
+# Flocon-cask
 
 ## How do I install these formulae?
 
